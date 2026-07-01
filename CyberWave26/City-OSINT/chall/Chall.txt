@@ -1,0 +1,2 @@
+carikan masjid terdekat di foto ini format CW2026{Masjid_XXXXX}
+ 	
