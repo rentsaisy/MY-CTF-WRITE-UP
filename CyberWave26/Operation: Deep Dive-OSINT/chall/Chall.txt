@@ -1,0 +1,9 @@
+Jakarta, 25 Maret 2026. Di saat sebagian besar warga ibu kota masih terlelap, sebuah insiden mengejutkan terjadi di jantung kota. Sebuah unit kendaraan listrik terbaru dilaporkan kehilangan kendali dan berakhir di dalam kolam ikonik Bundaran HI.
+
+Media massa mulai memberitakan kejadian ini pada sore harinya, namun laporan publikasi seringkali memiliki jeda waktu dan pembulatan informasi. Sebagai seorang investigator digital, tugasmu bukan sekadar membaca berita, melainkan menemukan kebenaran absolut dari bukti digital yang tertinggal.
+
+CW2026{JAM:MENIT_ARAH_MERK_MODEL}
+hint:
+Berdasarkan Arus Lalu Lintas
+arah = huruf depan besar , merek = besar semua
+Selatan
