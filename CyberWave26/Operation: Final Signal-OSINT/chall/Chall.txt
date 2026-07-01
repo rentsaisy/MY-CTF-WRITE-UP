@@ -1,0 +1,9 @@
+Sebuah unit intelijen sinyal (SIGINT) menangkap anomali frekuensi di lintas Bekasi pada akhir April 2026. Laporan lapangan mengonfirmasi adanya insiden fatal yang melibatkan rangkaian kereta di sekitar perlintasan Ampera hingga titik akhir di emplacement stasiun terdekat.
+
+Rekaman CCTV dan data manifest menunjukkan adanya benturan keras pada jam-jam krusial malam itu. Kami membutuhkan data presisi untuk laporan akhir investigasi.
+
+Tugas Anda: Tentukan waktu kejadian tepat saat insiden (jam & menit), tanggal lengkap, serta identitas nomor rangkaian (KA) yang tertabrak dalam insiden tersebut.
+
+Format Flag: CW2026{HH:MM_Tanggal_Bulan_Tahun_NomorKA}
+
+Flag terdiri dari 5 bagian yang dipisahkan oleh underscore: [JAM:MENIT][TANGGAL][BULAN][TAHUN][KODE_NOMOR_ASET]. Gunakan format 24 jam dan tuliskan nama bulan secara lengkap. Contoh pola: 00:00_01_Januari_2026_XX_0000X
