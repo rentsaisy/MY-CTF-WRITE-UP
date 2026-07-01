@@ -1,0 +1,7 @@
+Analisis darurat diperlukan. Sebuah unit Boeing 737 Next Gen milik maskapai nasional terkonfirmasi mengalami benturan hebat di udara (mid-air collision) saat melakukan fase final approach menuju Runway 36 Bandara Sultan Syarif Kasim II (PKU) pada medio Maret 2026.
+
+Meskipun radome pesawat hancur, sensor cuaca radar tidak mendeteksi adanya aktivitas biologis (kawanan burung) atau objek cuaca di jalur lintasan. Pilot melaporkan 'kontak fisik' dengan objek padat yang tidak teridentifikasi tepat di atas koordinat pemukiman padat penduduk.
+
+Komando Pusat membutuhkan data spesifik aset yang terdampak untuk melacak riwayat penerbangan dan menentukan titik asal (Point of Origin) dari objek tersebut melalui data ADS-B.
+
+Tugas Anda: Dapatkan kode registrasi pesawat (PK-XXX) dan nomor penerbangan (Flight Number) yang membawa aset tersebut ke titik insiden.
