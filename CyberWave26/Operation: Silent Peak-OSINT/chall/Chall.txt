@@ -1,0 +1,6 @@
+sebuah unit analisis citra satelit mendeteksi debris field di lereng perbukitan ekstrem di Sulawesi Selatan. Tim lapangan mengonfirmasi bahwa puing-puing tersebut berasal dari aset ATR 42-500 dengan kode registrasi PK-YRN yang hilang kontak.
+
+Komando Pusat membutuhkan validasi data presisi untuk laporan akhir investigasi.
+
+Tugas Anda: Dapatkan nama pilot (Commander) yang bertugas dalam penerbangan nahas tersebut dan identitas (Nama) gunung tempat aset tersebut ditemukan.
+
