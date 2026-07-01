@@ -1,6 +1,6 @@
 ## Analysis
 
-The challenge requires identifying the location shown in the provided image. By analyzing the visible landmarks, the location was determined to be near **Tokyo Skytree** in **Sumida City, Tokyo, Japan**. The corresponding decimal coordinates are:
+The challenge requires identifying the location shown in the provided image. By analyzing the visible landmarks using yandex and GMaps, the location was determined to be near **Tokyo Skytree** in **Sumida City, Tokyo, Japan**. The corresponding decimal coordinates are:
 
 - Latitude: **35.7097837**
 - Longitude: **139.8087756**
