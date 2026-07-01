@@ -1,0 +1,5 @@
+Budi baru saja mengunggah foto liburannya ke media sosial. Dia tidak memberikan geotag, namun dia bilang sedang berada di salah satu ikon wisata paling terkenal di Kabupaten Wonogiri. Dia sangat menikmati pemandangan perahu-perahu yang membawa wisatawan berkeliling bendungan tersebut
+
+Apa nama tempat wisata (waduk) yang dikunjungi Budi?
+
+Format Flag: CW2026{Nama_Waduk}
