@@ -1,0 +1,2 @@
+Our SOC pulled capture.pcap off an NGO field-office network after an alert. Most of the traffic is ordinary, but something on host 10.10.5.23 looks like it is quietly leaking data over DNS. Triage the capture, reconstruct what was exfiltrated, and read the flag.
+
