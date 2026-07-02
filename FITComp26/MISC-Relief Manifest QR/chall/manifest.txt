@@ -1,0 +1,14 @@
+MERCY RELIEF -- CONVOY MANIFEST 0042
+Each line item's authorization tag is its QR code.
+
+  Item 1: Water purification tablets       tag -> qr_part_1.png
+  Item 2: Emergency thermal blankets       tag -> qr_part_2.png
+  Item 3: Oral rehydration salts           tag -> qr_part_3.png
+  Item 4: Portable water filters           tag -> qr_part_4.png
+
+Reassemble the line-item tags in order to recover the manifest auth note.
+{}
+1/4|cmVsaWVmIG1hbmlmZXN
+3/4|l0e3IzbDEzZl9tNG4xZ
+4/4|jNzdF9xcl9zMGx2M2R9
+2/4|0IGF1dGggOjogY3RmZm

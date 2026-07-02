@@ -1,0 +1,1 @@
+A Mercy Relief convoy manifest came in as a sheet of QR-coded line items (qr_part_1.png .. qr_part_4.png) plus manifest.txt. Each QR is one piece of the manifest's authorization note. Put the pieces together and read the flag.
