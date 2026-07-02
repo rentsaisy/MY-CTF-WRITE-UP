@@ -1,0 +1,1 @@
+A relief radio operator picked up this repeating 'distress broadcast' (distress.wav) on an emergency channel. It isn't speech -- it's a string of touch-tones. Decode the broadcast and read the flag.
