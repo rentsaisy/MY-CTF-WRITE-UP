@@ -1,0 +1,9 @@
+You've intercepted a burst transmission from a black-market neural-link. The handshake uses a "rolling code" that changes with every authentication attempt. If you can predict the next code in the sequence, you can bypass the authentication and hijack the session.
+
+A corrupted fragment of the firmware's authentication logic was recovered from a nearby terminal. The firmware was heavily damaged—most of the parameters are missing, and the output appears to have been sampled irregularly.
+
+Important: The intercepted codes are stored in the log, but we've noticed some entries are missing or corrupted. The transmission was noisy—some codes were dropped entirely, and others may be invalid outliers. You'll need to figure out which codes are valid before you can predict the next one.
+
+The authentication server is still live. Once you've predicted the next code, submit it to the server to claim the flag.
+
+130.94.95.128:9001
