@@ -1,0 +1,7 @@
+A "corrupted" AI personality chip has been recovered from a street-doc's clinic in the sprawl. The tech-shaman claims the chip's neural weights contain a hidden message, but the standard inference engine just produces garbled output.
+
+Our specialists found a script that supposedly runs the chip's "inference" process. However, the weights don't look like standard floating-point values—they're integers, and the program keeps talking about "ion channels" and "neurotransmitter stacks."
+
+The chip's inference engine appears to be doing something more complex than neural computation. You'll need to figure out what it's actually doing. Once you've extracted the sync token, submit it to the neural verification service at
+
+130.94.95.128:9004
