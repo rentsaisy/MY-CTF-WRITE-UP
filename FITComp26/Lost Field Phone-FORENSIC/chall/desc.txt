@@ -1,0 +1,1 @@
+A relief worker's phone was recovered from a flooded sector and exported as recovered_phone.sqlite. Before losing it, the worker kept the relief network credentials in a 'Secure Note' and then deleted it. The deleted note never made it off the device intact -- but a deleted record is not always a gone record. Recover it.
