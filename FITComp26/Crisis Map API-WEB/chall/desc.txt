@@ -1,0 +1,3 @@
+Crisis Map API milik Mercy Relief melacak insiden lapangan dan bisa 'preview' feed peta eksternal. Build-nya terburu-buru. Baca daftar insiden, temukan sesuatu yang seharusnya tidak terekspos, lalu jangkau ops board internal untuk memulihkan flag autentikasi relay. Mulai dari GET /api/incidents.
+
+http://130.94.94.145:5009
