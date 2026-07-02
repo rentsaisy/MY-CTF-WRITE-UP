@@ -1,0 +1,1 @@
+Saat operasi tanggap banjir, tim SIGINT kami menyadap sebuah transmisi radio dua kanal dari jaringan relawan Mercy Relief. Kanal 1 hanya diacak ringan; Kanal 2 dikunci dengan sebuah kata kunci yang disepakati para operator melalui udara. Pulihkan flag autentikasi tim relawan dari berkas transmisi.
