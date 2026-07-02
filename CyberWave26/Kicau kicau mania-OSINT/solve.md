@@ -13,4 +13,6 @@ lowercase text can be clearly read as: kicau_maniaea_adminsuka1
 
 ## Flag
 
+```text
 CW2026{kicau_maniaea_adminsuka1}
+```

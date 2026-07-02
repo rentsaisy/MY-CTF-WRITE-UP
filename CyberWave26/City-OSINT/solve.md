@@ -4,4 +4,6 @@ The image was first analyzed using **Google Lens**, which identified the buildin
 
 ## Flag
 
+```text
 CW2026{Masjid_Istiqlal} 
+```

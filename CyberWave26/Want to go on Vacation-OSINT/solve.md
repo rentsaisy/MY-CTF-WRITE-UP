@@ -12,4 +12,6 @@ is Pantai Panggung.
 
 ## Flag
 
+```text
 CW2026{Pantai_Panggung}
+```

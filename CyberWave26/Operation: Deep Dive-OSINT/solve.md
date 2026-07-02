@@ -15,4 +15,6 @@ specifically the M6 model.
 
 ## Flag
 
+```text
 CW2026{03:55_Selatan_BYD_M6}
+```

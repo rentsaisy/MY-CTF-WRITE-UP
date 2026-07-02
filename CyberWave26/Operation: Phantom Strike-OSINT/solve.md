@@ -14,4 +14,6 @@ registration PK-GFF.
 
 ## Flag
 
+```text
 CW2026{GA176_PK-GFF}
+```

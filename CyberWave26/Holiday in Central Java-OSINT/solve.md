@@ -14,4 +14,6 @@ confidently conclude that the location Budi visited is Waduk Gadjah Mungkur.
 
 ## Flag
 
+```text
 CW2026{Gadjah_Mungkur}
+```

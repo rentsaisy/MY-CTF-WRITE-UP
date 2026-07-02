@@ -19,4 +19,6 @@ Combining both findings:
 
 ## Flag
 
+```text
 CW2026{Andy_Dahananto_Bulusaraung}
+```

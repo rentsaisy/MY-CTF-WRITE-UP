@@ -15,4 +15,6 @@ reveals the identification of the affected train set, which is recorded as PLB 5
 
 ## Flag
 
+```text
 CW2026{20:50_27_April_2026_PLB_5568A}
+```
