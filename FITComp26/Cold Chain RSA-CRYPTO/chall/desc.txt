@@ -1,0 +1,1 @@
+Mercy Relief's cold-chain service RSA-encrypts each vaccine batch authorization token. A field auditor leaked one token (n, e, c) in coldchain_token.json. Word is the key service was rushed and its prime generator was... not careful. Recover the plaintext token (the flag).
